@@ -26,6 +26,6 @@ Simple and reusable workflow
 
 Python
 
-Web Scraping libraries (e.g., BeautifulSoup / Requests / Selenium — depending on your implementation)
+Web Scraping libraries (BeautifulSoup)
 
 Pandas (for data processing and file conversion)
